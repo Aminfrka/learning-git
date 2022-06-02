@@ -1,2 +1,2 @@
-print('git and github practices')
+print('git and github')
 
